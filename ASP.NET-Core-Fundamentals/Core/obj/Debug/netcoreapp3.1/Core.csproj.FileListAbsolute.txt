@@ -1,0 +1,9 @@
+C:\Personal\ASP.NET-Core-Fundementals\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Personal\ASP.NET-Core-Fundementals\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Personal\ASP.NET-Core-Fundementals\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Personal\ASP.NET-Core-Fundementals\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Personal\ASP.NET-Core-Fundementals\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Personal\ASP.NET-Core-Fundementals\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Personal\ASP.NET-Core-Fundementals\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Personal\ASP.NET-Core-Fundementals\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Personal\ASP.NET-Core-Fundementals\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
