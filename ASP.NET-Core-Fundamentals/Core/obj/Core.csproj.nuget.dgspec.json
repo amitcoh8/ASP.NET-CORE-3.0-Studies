@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Personal\\ASP.NET-Core-Fundementals\\Core\\Core.csproj": {}
+    "C:\\Personal\\ASP.NET-CORE-3.0-Studies\\ASP.NET-Core-Fundamentals\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Personal\\ASP.NET-Core-Fundementals\\Core\\Core.csproj": {
+    "C:\\Personal\\ASP.NET-CORE-3.0-Studies\\ASP.NET-Core-Fundamentals\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\ASP.NET-Core-Fundementals\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Personal\\ASP.NET-CORE-3.0-Studies\\ASP.NET-Core-Fundamentals\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Personal\\ASP.NET-Core-Fundementals\\Core\\Core.csproj",
+        "projectPath": "C:\\Personal\\ASP.NET-CORE-3.0-Studies\\ASP.NET-Core-Fundamentals\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\amitc\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\ASP.NET-Core-Fundementals\\Core\\obj\\",
+        "outputPath": "C:\\Personal\\ASP.NET-CORE-3.0-Studies\\ASP.NET-Core-Fundamentals\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amitc\\AppData\\Roaming\\NuGet\\NuGet.Config",

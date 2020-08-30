@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "chSB6gYRbYn4QjXuh+XbsAwGd3QueksB0vcxhQfWOcYXU4qEjDvWQ2rudMTdfMzjBDFVvS5h1EldtHXPYTJp7g==",
+  "dgSpecHash": "V/RMYtduzV3wUtSoa4WilXWZWQlUXEDgNE9kAr+pGKkOhn0Nu71/rps2p1gIo8wJXqNuYGdMm/3vgkHq62nnpQ==",
   "success": true,
-  "projectFilePath": "C:\\Personal\\ASP.NET-Core-Fundementals\\ASP.NET-Core-Fundementals\\ASP.NET-Core-Fundementals.csproj",
+  "projectFilePath": "C:\\Personal\\ASP.NET-CORE-3.0-Studies\\ASP.NET-Core-Fundamentals\\ASP.NET-Core-Fundementals\\ASP.NET-Core-Fundementals.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amitc\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
     "C:\\Users\\amitc\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\1.0.0\\microsoft.aspnetcore.hosting.abstractions.1.0.0.nupkg.sha512",

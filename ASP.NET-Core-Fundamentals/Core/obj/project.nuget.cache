@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YxuentIKPa/2Ca9W9m7O9792bwMCiIIQSJ3j4f5EyfibP4op6xARDl1SvSylqxr2ctfaAex6/+r97LddmX69Iw==",
+  "dgSpecHash": "asXISQHjC5nL4efzdVppDruIqAeMfB7k0Ay8mmt9Yl4uJfQWy8CNo8E/QExJTv/9RdV5el0VN5P/PQdfoeN3FQ==",
   "success": true,
-  "projectFilePath": "C:\\Personal\\ASP.NET-Core-Fundementals\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Personal\\ASP.NET-CORE-3.0-Studies\\ASP.NET-Core-Fundamentals\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amitc\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\1.0.0\\microsoft.aspnetcore.hosting.abstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\amitc\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\1.0.0\\microsoft.aspnetcore.hosting.server.abstractions.1.0.0.nupkg.sha512",

@@ -5464,11 +5464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Personal\\ASP.NET-Core-Fundementals\\ASP.NET-Core-Fundementals\\ASP.NET-Core-Fundementals.csproj",
+      "projectUniqueName": "C:\\Personal\\ASP.NET-CORE-3.0-Studies\\ASP.NET-Core-Fundamentals\\ASP.NET-Core-Fundementals\\ASP.NET-Core-Fundementals.csproj",
       "projectName": "ASP.NET-Core-Fundementals",
-      "projectPath": "C:\\Personal\\ASP.NET-Core-Fundementals\\ASP.NET-Core-Fundementals\\ASP.NET-Core-Fundementals.csproj",
+      "projectPath": "C:\\Personal\\ASP.NET-CORE-3.0-Studies\\ASP.NET-Core-Fundamentals\\ASP.NET-Core-Fundementals\\ASP.NET-Core-Fundementals.csproj",
       "packagesPath": "C:\\Users\\amitc\\.nuget\\packages\\",
-      "outputPath": "C:\\Personal\\ASP.NET-Core-Fundementals\\ASP.NET-Core-Fundementals\\obj\\",
+      "outputPath": "C:\\Personal\\ASP.NET-CORE-3.0-Studies\\ASP.NET-Core-Fundamentals\\ASP.NET-Core-Fundementals\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amitc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5484,8 +5484,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Personal\\ASP.NET-Core-Fundementals\\Data\\Data.csproj": {
-              "projectPath": "C:\\Personal\\ASP.NET-Core-Fundementals\\Data\\Data.csproj"
+            "C:\\Personal\\ASP.NET-CORE-3.0-Studies\\ASP.NET-Core-Fundamentals\\Data\\Data.csproj": {
+              "projectPath": "C:\\Personal\\ASP.NET-CORE-3.0-Studies\\ASP.NET-Core-Fundamentals\\Data\\Data.csproj"
             }
           }
         }
